@@ -1,0 +1,32 @@
+C:\Users\Elena\source\repos\Elenas New Game\bin\Debug\Elenas New Game.exe
+C:\Users\Elena\source\repos\Elenas New Game\bin\Debug\Elenas New Game.exe.config
+C:\Users\Elena\source\repos\Elenas New Game\obj\Debug\Elenas New Game.csprojAssemblyReference.cache
+C:\Users\Elena\source\repos\Elenas New Game\obj\Debug\Elenas_New_Game.Form1.resources
+C:\Users\Elena\source\repos\Elenas New Game\obj\Debug\Elenas_New_Game.Main_Game.resources
+C:\Users\Elena\source\repos\Elenas New Game\obj\Debug\Elenas_New_Game.Properties.Resources.resources
+C:\Users\Elena\source\repos\Elenas New Game\obj\Debug\Elenas New Game.csproj.GenerateResource.cache
+C:\Users\Elena\source\repos\Elenas New Game\obj\Debug\Elenas New Game.exe
+C:\Users\Elena\source\repos\Elenas New Game\obj\Debug\Elenas New Game.pdb
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\bin\Debug\Elenas New Game.exe.config
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\bin\Debug\Elenas New Game.exe
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\bin\Debug\Elenas New Game.pdb
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\obj\Debug\Elenas New Game.csprojAssemblyReference.cache
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\obj\Debug\Elenas_New_Game.Form1.resources
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\obj\Debug\Elenas_New_Game.Main_Game.resources
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\obj\Debug\Elenas_New_Game.Properties.Resources.resources
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\obj\Debug\Elenas New Game.csproj.GenerateResource.cache
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\obj\Debug\Elenas New Game.exe
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\obj\Debug\Elenas New Game.pdb
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\obj\Debug\Elenas_New_Game.UserControl1.resources
+D:\Users\Elena\Documents\Visual Studio 2019\Visual studio projects\repos\Elenas New Game\obj\Debug\Elenas New Game.csproj.CoreCompileInputs.cache
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\bin\Debug\Elenas New Game.exe.config
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\bin\Debug\Elenas New Game.exe
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\bin\Debug\Elenas New Game.pdb
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\obj\Debug\Elenas New Game.csprojAssemblyReference.cache
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\obj\Debug\Elenas_New_Game.Form1.resources
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\obj\Debug\Elenas_New_Game.Main_Game.resources
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\obj\Debug\Elenas_New_Game.Properties.Resources.resources
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\obj\Debug\Elenas New Game.csproj.GenerateResource.cache
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\obj\Debug\Elenas New Game.csproj.CoreCompileInputs.cache
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\obj\Debug\Elenas New Game.exe
+D:\Users\Elena\Documents\Visual Studio 2019\Elenas New Game\obj\Debug\Elenas New Game.pdb
